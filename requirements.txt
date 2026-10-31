@@ -72,3 +72,6 @@ websockets==17.4
 xxhash==4.0.2
 yarl==1.25.1
 zstandard==0.25.0
+langchain==1.4.7
+langchain-openai==1.7.3
+langchain-tavily==0.2.18
